@@ -1,4 +1,3 @@
-int main(int argc, char** argv) {
+#include "../comm/class_singleton.h"
 
-  return 0;
-}
+int main(int argc, char** argv) { return 0; }
