@@ -15,7 +15,6 @@ LIBS += $(LIBYAML)
 OBJS = $(patsubst $(PATH_SRC)/%.cpp, $(PATH_OBJS)/%.o, $(wildcard $(PATH_SRC)/*.cpp))
 OBJS += $(patsubst $(PATH_COMM)/%.cpp, $(PATH_OBJS)/%.o, $(wildcard $(PATH_COMM)/*.cpp))
 
-
 $(EXE) : $(OBJS)
 	$(CC) $(CFLAGS) $^ -Xlinker "-(" $(LIBS) -Xlinker "-)" -o $@
 

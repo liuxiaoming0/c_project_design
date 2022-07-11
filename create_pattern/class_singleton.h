@@ -2,7 +2,7 @@
 #include <mutex>
 #include <string>
 #include <unordered_map>
-#include "define.h"
+#include "../comm/define.h"
 
 template <typename T>
 class Ccfg {

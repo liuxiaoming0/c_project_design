@@ -1,4 +1,6 @@
 #pragma once
+#include <unordered_map>
+#include <memory>
 
 struct DB_INFO;
 using CFG_KV = std::unordered_map<std::string, std::string>;
