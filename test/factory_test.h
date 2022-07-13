@@ -1,6 +1,8 @@
 #include "../create_pattern/class_abtract_factory.h"
-#include "../create_pattern/class_metchod_factory.h"
-#include "../create_pattern/class_simple_factory.h "
+#include "../create_pattern/class_abtract_register_factory.h"
+#include "../create_pattern/class_method_factory.h"
+#include "../create_pattern/class_simple_factory.h"
+#include "../create_pattern/class_simple_register_factory.h"
 #include "google_test.h"
 
 TEST(testFactory, create) {

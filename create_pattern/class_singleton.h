@@ -20,6 +20,7 @@ class Ccfg {
   // get object, only entrance
   static T& getInstance() {
     static T cfg_;
+
     return cfg_;
   };
 
