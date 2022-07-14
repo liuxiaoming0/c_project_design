@@ -1,3 +1,11 @@
+/*
+ * @Descripttion:注册产品工厂模式，用于生产产品类
+ * @version:
+ * @Author: danae
+ * @Date: 2022-07-13 14:26:34
+ * @LastEditors: danae
+ * @LastEditTime: 2022-07-13 15:56:22
+ */
 #pragma once
 #include "../comm/define.h"
 

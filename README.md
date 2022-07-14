@@ -5,6 +5,8 @@
     20220710（7）: 抽象工厂模板、抽象工厂注册模板
     20220711（1）: 双重指针、工厂模板、原型
     20220712（2）: 《游戏设计模式》
+    20220713（3）: 《游戏设计模式》、原型和工厂模式组合、生成器
+    20220714（4）: 享元
 
 # 待完成
     - 线程安全的单例模式模板抽象类
@@ -14,7 +16,7 @@
     - Factory Method 工厂方法 （√）
     - Abtract Factory 抽象工厂（√）
     - Prototype 原型（√）
-    - Builder 生成器
+    - Builder 生成器（√）
 # 结构型模式
     - Flyweight 享元
     - Adapter 适配器
@@ -29,11 +31,15 @@
     - State 状态
     - Chain of Responsibility 责任链
     - Iterator 迭代器
+    - 类型对象
     - Mediator 中介者
     - Memento 备忘录
     - Strategy 策略
     - Template Method 模板方法
     - Visitor 访问者
+# 解耦模式
+    - 组件模式
+    - 事件队列
 # 待定
     - 事件模型
     - 数据库连接池：https://blog.csdn.net/wwh578867817/article/details/47029653

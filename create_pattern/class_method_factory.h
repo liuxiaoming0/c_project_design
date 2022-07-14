@@ -1,3 +1,11 @@
+/*
+ * @Descripttion:工厂方法模式
+ * @version:
+ * @Author: danae
+ * @Date: 2022-07-13 14:26:34
+ * @LastEditors: danae
+ * @LastEditTime: 2022-07-13 15:58:24
+ */
 #pragma once
 #include "../comm/define.h"
 

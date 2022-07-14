@@ -1,7 +1,7 @@
 # 设计模式书
-[游戏编程模式-C++语言]  https://gpp.tkchu.me/
+[22种设计模式-多种语言] https://refactoringguru.cn/design-patterns/catalog
 [图说设计模式-Java语言] https://design-patterns.readthedocs.io/zh_CN/latest/index.html
-[22种设计模式-Java语言] https://refactoringguru.cn/design-patterns/catalog
+[游戏编程模式-C++语言]  https://gpp.tkchu.me/
 [22种设计模式-Java语言] https://www.runoob.com/design-pattern/factory-pattern.html
 
 # 已读链接

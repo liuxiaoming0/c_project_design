@@ -1,3 +1,11 @@
+/*
+ * @Descripttion:
+ * @version:
+ * @Author: danae
+ * @Date: 2022-07-07 09:39:22
+ * @LastEditors: danae
+ * @LastEditTime: 2022-07-14 11:56:49
+ */
 #include "../create_pattern/class_singleton.h"
 #include "google_test.h"
 

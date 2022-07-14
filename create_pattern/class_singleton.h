@@ -1,3 +1,11 @@
+/*
+ * @Descripttion: 单例模式，不加锁
+ * @version:
+ * @Author: danae
+ * @Date: 2022-07-13 14:26:34
+ * @LastEditors: danae
+ * @LastEditTime: 2022-07-14 10:09:19
+ */
 #pragma once
 #include <mutex>
 #include <string>
