@@ -1,5 +1,13 @@
+/*
+ * @Descripttion: 原型模式
+ * @version:
+ * @Author: danae
+ * @Date: 2022-07-14 08:58:31
+ * @LastEditors: danae
+ * @LastEditTime: 2022-07-15 11:04:35
+ */
 #include "../create_pattern/class_prototype.h"
-#include "google_test.h"
+#include "../google_test.h"
 
 TEST(testProtoType, create) {
   // 方法1：动态调用创建模板

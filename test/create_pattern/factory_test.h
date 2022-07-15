@@ -1,9 +1,17 @@
+/*
+ * @Descripttion: 工厂模式
+ * @version:
+ * @Author: danae
+ * @Date: 2022-07-13 14:26:34
+ * @LastEditors: danae
+ * @LastEditTime: 2022-07-15 11:04:30
+ */
 #include "../create_pattern/class_abtract_factory.h"
 #include "../create_pattern/class_abtract_register_factory.h"
 #include "../create_pattern/class_method_factory.h"
 #include "../create_pattern/class_simple_factory.h"
 #include "../create_pattern/class_simple_register_factory.h"
-#include "google_test.h"
+#include "../google_test.h"
 
 TEST(testFactory, create) {
   // 简单工厂类，根据入参生成不同对象
