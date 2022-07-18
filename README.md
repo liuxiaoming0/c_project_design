@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: danae
- * @Date: 2022-07-07 09:39:22
- * @LastEditors: danae
- * @LastEditTime: 2022-07-15 12:26:49
--->
 # 进度
     20220707（4）: 单例模式、单例模式的继承
     20220708（5）: 简单工厂模式
@@ -34,8 +26,8 @@
     - Bridge 桥接（√）
     - Composite 递归组合（√）
     - Decorator 递归装饰(封装)（√）
-    - Facase 外观
-    - Flyweight 享元
+    - Facase 外观（√）
+    - Flyweight 享元（√）
     - Proxy 代理
 # 行为模式
     - Command 命令
@@ -61,3 +53,4 @@
     - 用第三方库P0，结合设计模式的使用
     - 验证大量请求的响应时间，数据库操作耗时
     - Go语言学习，按章节看文档试验后，再独立写一个例子
+    - std::initializer_list

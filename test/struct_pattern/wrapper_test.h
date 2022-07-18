@@ -4,10 +4,10 @@
  * @Author: danae
  * @Date: 2022-07-17 16:34:16
  * @LastEditors: danae
- * @LastEditTime: 2022-07-18 09:07:53
+ * @LastEditTime: 2022-07-18 14:41:29
  */
+#include "../../struct_pattern/wrapper_test.h"
 #include "../google_test.h"
-#include "../struct_pattern/wrapper_test.h"
 
 TEST(testWrapper, create) {
   Impl1Origin* p1 = new Impl1Origin();

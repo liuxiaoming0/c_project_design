@@ -4,10 +4,10 @@
  * @Author: danae
  * @Date: 2022-07-17 17:42:16
  * @LastEditors: danae
- * @LastEditTime: 2022-07-18 09:07:09
+ * @LastEditTime: 2022-07-18 14:41:16
  */
+#include "../../struct_pattern/recursion_composite_test.h"
 #include "../google_test.h"
-#include "../struct_pattern/recursion_composite_test.h"
 
 TEST(testComposite, create) {
   AbtractNode* p1 = new Node("ab");
