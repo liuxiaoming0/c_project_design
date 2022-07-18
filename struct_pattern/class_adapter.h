@@ -1,10 +1,10 @@
 /*
- * @Descripttion:
+ * @Descripttion: 适配器
  * @version:
  * @Author: danae
  * @Date: 2022-07-15 09:06:58
  * @LastEditors: danae
- * @LastEditTime: 2022-07-15 14:24:28
+ * @LastEditTime: 2022-07-18 09:07:25
  */
 #pragma once
 #include "../comm/define.h"
