@@ -2,9 +2,9 @@
  * @Descripttion: 
  * @version: 
  * @Author: danae
- * @Date: 2022-07-07 09:39:22
+ * @Date: 2022-07-20 10:56:57
  * @LastEditors: danae
- * @LastEditTime: 2022-07-20 10:56:42
+ * @LastEditTime: 2022-07-21 16:25:37
 -->
 # 进度
     20220707（4）: 单例模式、单例模式的继承
@@ -20,6 +20,8 @@
     20220718（1）: 享元模式
     20220719（2）: 代理模式、责任链
     20220720（3）: 命令
+    20220721（4）: 迭代器
+    20220722（5）: 中介者
 
 # 待完成
     - 线程安全的单例模式模板抽象类
@@ -40,12 +42,12 @@
     - Proxy 代理（√）
 # 行为模式
     - Chain of Responsibility 责任链（√）
-    - Iterator 迭代器
-    - Command 命令
+    - Command 命令（√）
+    - Iterator 迭代器（√）
+    - Mediator 中介者
     - Observer 观察者
     - State 状态
     - 类型对象
-    - Mediator 中介者
     - Memento 备忘录
     - Strategy 策略
     - Template Method 模板方法

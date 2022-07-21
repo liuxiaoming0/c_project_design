@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: danae
+ * @Date: 2022-07-20 17:30:06
+ * @LastEditors: danae
+ * @LastEditTime: 2022-07-21 09:11:19
+-->
 ### 3.1 责任链
 - [使用场景]
     - 程序需要使用不同方式处理不同种类请求，且请求类型和顺序未知时
