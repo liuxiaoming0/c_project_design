@@ -4,7 +4,7 @@
  * @Author: danae
  * @Date: 2022-07-20 10:56:57
  * @LastEditors: danae
- * @LastEditTime: 2022-07-21 16:25:37
+ * @LastEditTime: 2022-07-22 11:35:43
 -->
 # 进度
     20220707（4）: 单例模式、单例模式的继承
@@ -44,7 +44,7 @@
     - Chain of Responsibility 责任链（√）
     - Command 命令（√）
     - Iterator 迭代器（√）
-    - Mediator 中介者
+    - Mediator 中介者（√）
     - Observer 观察者
     - State 状态
     - 类型对象
