@@ -4,7 +4,7 @@
  * @Author: danae
  * @Date: 2022-07-20 10:56:57
  * @LastEditors: danae
- * @LastEditTime: 2022-07-22 11:35:43
+ * @LastEditTime: 2022-07-24 11:34:40
 -->
 # 进度
     20220707（4）: 单例模式、单例模式的继承
@@ -22,6 +22,7 @@
     20220720（3）: 命令
     20220721（4）: 迭代器
     20220722（5）: 中介者
+    20220723（6）: 观察者
 
 # 待完成
     - 线程安全的单例模式模板抽象类
@@ -45,13 +46,13 @@
     - Command 命令（√）
     - Iterator 迭代器（√）
     - Mediator 中介者（√）
-    - Observer 观察者
-    - State 状态
-    - 类型对象
+    - Observer 观察者（√）
     - Memento 备忘录
+    - State 状态
     - Strategy 策略
     - Template Method 模板方法
     - Visitor 访问者
+    - 类型对象
 # 解耦模式
     - 组件模式
     - 事件队列
