@@ -4,7 +4,7 @@
  * @Author: danae
  * @Date: 2022-07-20 10:56:57
  * @LastEditors: danae
- * @LastEditTime: 2022-07-24 11:34:40
+ * @LastEditTime: 2022-07-26 12:10:10
 -->
 # 进度
 - w1
@@ -60,7 +60,7 @@
 - State 状态 （√）
 - Strategy 策略（√）
 - Template Method 模板方法（√）
-- Visitor 访问者
+- Visitor 访问者（√）
 - 类型对象
 
 
