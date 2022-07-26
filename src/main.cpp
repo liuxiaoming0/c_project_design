@@ -7,6 +7,10 @@
  * @LastEditTime: 2022-07-24 17:26:29
  */
 
-#include "../behavior_pattern/class_snapshot.h"
+#include "../behavior_pattern/class_strategy.h"
 
-int main(int argc, char** argv) { return 0; }
+int main(int argc, char** argv) { 
+
+
+  return 0;
+}
