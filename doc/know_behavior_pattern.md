@@ -25,7 +25,7 @@
     - **中介者**清除了发送者和请求者之间的直接连接， 强制它们通过一个中介对象进行间接沟通
     - **观察者** 允许接收者动态地订阅或取消接收请求
 
-![](../img/behavior/chain.png)
+![类图](../img/behavior/chain.png)
 
 
 ## 3.2 命令
@@ -48,7 +48,7 @@
    - **中介者** 发送者和接收者通过中介对象间接沟通
    - **观察者** 允许接收者动态订阅取消接收请求
 
-![](../img/behavior/cmd.png)
+![类图](../img/behavior/cmd.png)
 
 ## 3.3 迭代器
 - [整体说明]
@@ -63,7 +63,7 @@
     - **集合类**创建迭代器对象，将自身类型作为模块参数传递，将自身对象作为参数传递给迭代器
     - **客户端**使用时，通过迭代器对象遍历集合全部元素
 
-![](../img/behavior/iterator.png)
+![类图](../img/behavior/iterator.png)
 
 
 ## 3.4 中介者
@@ -87,7 +87,7 @@
         - **观察者** 目标是在对象之间建立动态的单向连接
         - **中介者与观察者结合** 中介者对象担当发布者的角色， 其他组件则作为订阅者， 可以订阅中介者的事件或取消订阅
 
-![](../img/behavior/mediator.png)
+![类图](../img/behavior/mediator.png)
 
 
 ## 2.5 观察者
@@ -105,9 +105,9 @@
   - 在运行时建立对象间联系
   - 但订阅者的通知顺序是随机的
   
-![](../img/behavior/observer.png)
+![类图](../img/behavior/observer.png)
 
-![](../img/behavior/observer_time.png)
+![时序图](../img/behavior/observer_time.png)
 
 ## 2.6 备忘录（快照）
 - [整体说明]
@@ -123,9 +123,9 @@
   - 负责人必须完整跟踪原发器生命周期，才能销毁废弃的备忘录
   - 一些动态远程语言PHP、Python、JS无法保证备忘录中的状态不被修改
 
-![](../img/behavior/observer.png)
+![类图](../img/behavior/observer.png)
 
-![](../img/behavior/observer_time.png)
+![时序图](../img/behavior/observer_time.png)
 
 ## 2.7 状态
 - [整体说明]
@@ -143,9 +143,9 @@
     - **策略** 对象之间相互独立
     - **状态** 没有限制状态间的依赖，且在处理请求时经常改变状态
 
-![](../img/behavior/state.png)
+![类图](../img/behavior/state.png)
 
-![](../img/behavior/state_time.png)
+![时序图](../img/behavior/state_time.png)
 
 ## 2.8 策略
 - [整体说明]
@@ -162,9 +162,9 @@
 - [优缺点]
   - 避免额外的策略类，保持代码整洁，可以**用一组匿名函数实现不同版本的算法！**
 
-![](../img/behavior/strategy.png)
+![类图](../img/behavior/strategy.png)
 
-![](../img/behavior/strategy_time.png)
+![时序图](../img/behavior/strategy_time.png)
 
 
 ## 2.9 访问者
@@ -180,5 +180,5 @@
     - **客户端** 将访问者对象通过接收方法传递给元素
 
 
-![](../img/behavior/visitor.png)
-![](../img/behavior/visitor_time.png)
+![类图](../img/behavior/visitor.png)
+![时序图](../img/behavior/visitor_time.png)
