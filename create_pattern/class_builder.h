@@ -12,6 +12,7 @@ class Product {
   std::string b_;
 };
 
+
 // 抽象构造产品组成部分类
 class AbtractBuilder {
  public:
